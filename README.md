@@ -1,5 +1,8 @@
 # React + Vite
 
+# You can try this project here: https://react-word-analytics.netlify.app/
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
